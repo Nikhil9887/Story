@@ -1,0 +1,12 @@
+git -> we will be using for version control
+now what is version control
+let's say u started to write code for a question. you completed the first part of it
+you completed the second part of it. now lets say you were at the third part of it, and u 
+messed your entire code and now the first and second part along with the third part wont work
+so your only option is to hit the undo key infinite number of times but that not possible and a good 
+practice. so using git, you can save your checkpoints. here you could have saved your code upto the second part 
+and even you messed up the third part, you could have been able to access your code till second part and you
+could have started again.
+
+to initialize git : type git init
+
